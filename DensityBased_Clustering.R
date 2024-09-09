@@ -3,8 +3,7 @@
 
 ## The following parameters can be adjusted to fine-tune clustering outputs:
 ##    eps:  radius of an object's neighbourhood
-##    minPts:  minimum points in an object's neighbourhood for it to be classified as a core object
-
+##    minPts:  minimum points to define a clusters
 ## --------------------------------------------------------------------
 ## Author: Fraser Masterson; Fri Aug 2 15:36:45 2024
 
