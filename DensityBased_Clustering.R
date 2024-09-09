@@ -32,9 +32,9 @@ DVBSCAN <- function(data, eps, minPts) {
   }
 
   n <- nrow(data) 
-  labels <- rep(0, n) # Initialize labels to 0 (i.e., unclassified)
-  cluster_id <- 0 # Initialize cluster ID counter
-  densities <- rep(0, n) # Initialize densities to 0
+  labels <- rep(0, n) # Set labels to 0 (i.e., unclassified)
+  cluster_id <- 0 # Initialise cluster ID counter
+  densities <- rep(0, n) # Set densities to 0
 
   # Calculate density for each point in the dataset (progress bar included)
   densities <- pbsapply(1:n, function(i) calculate_density(data, i, eps))
