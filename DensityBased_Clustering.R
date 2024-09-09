@@ -2,8 +2,8 @@
 ## Input parameters
 
 ## The following parameters can be adjusted to fine-tune clustering outputs:
-##    eps:  radius of an object's neighbourhood
-##    minPts:  minimum points to define a clusters
+##    eps:  radius of a point's neighbourhood
+##    minPts:  minimum points to define a cluster
 ## --------------------------------------------------------------------
 ## Author: Fraser Masterson; Fri Aug 2 15:36:45 2024
 
