@@ -14,9 +14,9 @@
 
 ## Input parameters
 
-## The following objects can be adjusted to fine-tune clustering outputs:
-##    eps:  radius of a point's neighbourhood
-##    minPts:  minimum points in radius 'eps' required for an object to be classified as a core object
+## The following parameters can be adjusted to fine-tune clustering outputs:
+##    eps:  radius of an object's neighbourhood
+##    minPts:  minimum points in an object's neighbourhood for it to be classified as a core object
 
 require(dbscan)
 require(pbapply)
