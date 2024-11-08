@@ -57,7 +57,7 @@ points(datanoise$x, datanoise$y, col = "lightgrey")
 
 ![image](https://github.com/user-attachments/assets/3f4a97d3-b40b-4ba7-a9ea-1497f5dda38a)
 
-## 3. Post-DVBSCAN, high density areas are assigned unique cluster values (remaining points classed as noise)
+## 3. Post-DVBSCAN, high density areas are assigned unique cluster values (remaining points classified as noise)
 
 ![image](https://github.com/user-attachments/assets/ea277691-df2c-44bb-b1c9-8f6d15eadb3b)
 
